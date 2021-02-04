@@ -30,6 +30,7 @@ setup(
             'snip=app.main:main',
             'snip-where=app.main:where',
             'snip-file=app.main:snip_file',
+            'snip-project=app.main:snip_project',
         ]
     },
     include_package_data=True,
